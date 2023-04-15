@@ -254,8 +254,6 @@ class UserController {
 
     updateCount() {
 
-        console.log('chamou');
-
         let numberUsers = 0;
         let numberAdmin = 0;
 
